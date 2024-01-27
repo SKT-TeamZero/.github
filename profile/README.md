@@ -1,4 +1,4 @@
-# 나만의 법률 개인 비서<br/><h2>My own private secretary for legal services</h2>   
+# 나만의 법률 개인 비서<br/>My own private secretary for legal services
 **Team Zero**
 
 ## 👻프로젝트 소개
